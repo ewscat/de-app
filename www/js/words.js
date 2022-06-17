@@ -90,6 +90,7 @@ function showArticle(art) {
         btn_class = "btn-danger"
     }
     updateCounter();
+    updateProgress();
     article.textContent = currentElement.article;
     article.setAttribute("class", "visible");
     article.setAttribute("class", text_class);
@@ -140,6 +141,37 @@ function showResult() {
     }
     summary = getSummary();
     cntn.appendChild(summary)
+
+    resultNavLinks = document.getElementById('resultNavLinks');
+    resultNavLinks.appendChild(resultLinks())
+}
+
+function updateProgress() {
+    progress = document.getElementById("progress");
+    procent = (wordList.filter((i) => i.showed).length)*100/wordList.length;
+    progress.setAttribute("style", `width: ${procent}%`);
+    progress.setAttribute("aria-valuenow", `${procent}`);
+}
+
+function resultLinks() {
+    p = document.createElement("p");
+    retry = document.createElement("button");
+    retry.setAttribute("type", "button");
+    retry.setAttribute("onclick", "location.reload();");
+    retry.classList.add("btn");
+    retry.classList.add("btn-link");
+    retry.textContent = "Retry";
+    
+    toContent = document.createElement("button");
+    toContent.setAttribute("type", "button");
+    toContent.setAttribute("onclick", "window.location.pathname=('/themas.html');");
+    toContent.classList.add("btn");
+    toContent.classList.add("btn-link");
+    toContent.textContent = "To content";
+
+    p.appendChild(retry);
+    p.appendChild(toContent);
+    return p;
 }
 
 function getSummary() {
