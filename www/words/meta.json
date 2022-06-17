@@ -1,15 +1,19 @@
 [
     {
         "topic": "words",
-        "description": "Some about Huis",
-        "count": 10
+        "description": "General words",
+        "count": 3
     },{
-        "topic": "Natuur",
-        "description": "Some about Natuur",
-        "count": 5
+        "topic": "evenementenhal",
+        "description": "Naar de evenementenhal",
+        "count": 14
     },{
-        "topic": "Party",
-        "description": "Some about Party",
-        "count": 25
+        "topic": "vrienden",
+        "description": "Bij vrienden",
+        "count": 17
+    },{
+        "topic": "in_de_trein",
+        "description": "In de trein",
+        "count": 16
     }
 ]
