@@ -1,0 +1,16 @@
+het openbar_vervoer
+het vliegtuig
+de trein
+de tas
+de koffer
+het grapje
+het spoor
+de wei
+het landschap
+de berg
+de natuur
+het gebied
+de lucht
+het schilderij
+de molen
+de kaas
