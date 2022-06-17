@@ -1,0 +1,15 @@
+[
+    {
+        "topic": "words",
+        "description": "Some about Huis",
+        "count": 10
+    },{
+        "topic": "Natuur",
+        "description": "Some about Natuur",
+        "count": 5
+    },{
+        "topic": "Party",
+        "description": "Some about Party",
+        "count": 25
+    }
+]
