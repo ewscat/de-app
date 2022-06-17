@@ -12,7 +12,7 @@ def read_file(filename: str)->List:
             (art, word) = line.split()
             items.append({
                 "article": art,
-                "word": word
+                "word": word.replace('_', ' ')
             })
     return items
 
