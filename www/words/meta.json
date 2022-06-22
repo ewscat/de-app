@@ -1,9 +1,5 @@
 [
     {
-        "topic": "words",
-        "description": "General words",
-        "count": 3
-    },{
         "topic": "evenementenhal",
         "description": "Naar de evenementenhal",
         "count": 14
@@ -15,5 +11,13 @@
         "topic": "in_de_trein",
         "description": "In de trein",
         "count": 16
+    },{
+        "topic": "waar_komt_je_vaandan",
+        "description": "Waar komt je vaandan",
+        "count": 65
+    },{
+        "topic": "zullen_we_iets_afspreken",
+        "description": "Zullen we iets afspreken",
+        "count": 61
     }
 ]
