@@ -1,0 +1,632 @@
+[
+  {
+    "infinitief": "bakken",
+    "translation": "to bake",
+    "imperfectum": "bakte,bakten",
+    "hulpwerkwoord": "heeft",
+    "perfectum": "gebakken"
+  },
+  {
+    "infinitief": "beginnen",
+    "translation": "to begin",
+    "imperfectum": "begon,begonnen",
+    "hulpwerkwoord": "is",
+    "perfectum": "begonnen"
+  },
+  {
+    "infinitief": "begrijpen",
+    "translation": "to understand",
+    "imperfectum": "begreep,begrepen",
+    "hulpwerkwoord": "heeft",
+    "perfectum": "begrepen"
+  },
+  {
+    "infinitief": "bergen",
+    "translation": "to save",
+    "imperfectum": "borg,borgen",
+    "hulpwerkwoord": "heeft",
+    "perfectum": "geborgen"
+  },
+  {
+    "infinitief": "bewegen",
+    "translation": "to move",
+    "imperfectum": "bewoog,bewogen",
+    "hulpwerkwoord": "heeft",
+    "perfectum": "bewogen"
+  },
+  {
+    "infinitief": "bezoeken",
+    "translation": "to visit",
+    "imperfectum": "bezocht,bezochten",
+    "hulpwerkwoord": "heeft",
+    "perfectum": "bezocht"
+  },
+  {
+    "infinitief": "bieden",
+    "translation": "to offer",
+    "imperfectum": "bood,boden",
+    "hulpwerkwoord": "heeft",
+    "perfectum": "geboden"
+  },
+  {
+    "infinitief": "bijten",
+    "translation": "to bite",
+    "imperfectum": "beet,beten",
+    "hulpwerkwoord": "heeft",
+    "perfectum": "gebeten"
+  },
+  {
+    "infinitief": "binden",
+    "translation": "to bind",
+    "imperfectum": "bond,bonden",
+    "hulpwerkwoord": "heeft",
+    "perfectum": "gebonden"
+  },
+  {
+    "infinitief": "blijven",
+    "translation": "to stay",
+    "imperfectum": "bleef,bleven",
+    "hulpwerkwoord": "is",
+    "perfectum": "gebleven"
+  },
+  {
+    "infinitief": "breken",
+    "translation": "to break",
+    "imperfectum": "brak,braken",
+    "hulpwerkwoord": "heeft,is",
+    "perfectum": "gebroken"
+  },
+  {
+    "infinitief": "brengen",
+    "translation": "to bring",
+    "imperfectum": "bracht,brachten",
+    "hulpwerkwoord": "heeft",
+    "perfectum": "gebracht"
+  },
+  {
+    "infinitief": "denken",
+    "translation": "to think",
+    "imperfectum": "dacht,dachten",
+    "hulpwerkwoord": "heeft",
+    "perfectum": "gedacht"
+  },
+  {
+    "infinitief": "doen",
+    "translation": "to make",
+    "imperfectum": "deed,deden",
+    "hulpwerkwoord": "heeft",
+    "perfectum": "gedaan"
+  },
+  {
+    "infinitief": "dragen",
+    "translation": "to carry",
+    "imperfectum": "droeg,droegen",
+    "hulpwerkwoord": "heeft",
+    "perfectum": "gedragen"
+  },
+  {
+    "infinitief": "dringen",
+    "translation": "to push",
+    "imperfectum": "drong,drongen",
+    "hulpwerkwoord": "heeft,is",
+    "perfectum": "gedrongen"
+  },
+  {
+    "infinitief": "drinken",
+    "translation": "to drink",
+    "imperfectum": "dronk,dronken",
+    "hulpwerkwoord": "heeft",
+    "perfectum": "gedronken"
+  },
+  {
+    "infinitief": "duiken",
+    "translation": "to dive",
+    "imperfectum": "dook,doken",
+    "hulpwerkwoord": "heeft,is",
+    "perfectum": "gedoken"
+  },
+  {
+    "infinitief": "eten",
+    "translation": "to eat",
+    "imperfectum": "at,aten",
+    "hulpwerkwoord": "heeft",
+    "perfectum": "gegeten"
+  },
+  {
+    "infinitief": "gaan",
+    "translation": "to go",
+    "imperfectum": "ging,gingen",
+    "hulpwerkwoord": "is",
+    "perfectum": "gegaan"
+  },
+  {
+    "infinitief": "genezen",
+    "translation": "to heal",
+    "imperfectum": "genas,genazen",
+    "hulpwerkwoord": "heeft,is",
+    "perfectum": "genezen"
+  },
+  {
+    "infinitief": "geven",
+    "translation": "to give",
+    "imperfectum": "gaf,gaven",
+    "hulpwerkwoord": "heeft",
+    "perfectum": "gegeven"
+  },
+  {
+    "infinitief": "hangen",
+    "translation": "to hang",
+    "imperfectum": "hing,hingen",
+    "hulpwerkwoord": "heeft",
+    "perfectum": "gehangen"
+  },
+  {
+    "infinitief": "hebben",
+    "translation": "to have",
+    "imperfectum": "had,hadden",
+    "hulpwerkwoord": "heeft",
+    "perfectum": "gehad"
+  },
+  {
+    "infinitief": "helpen",
+    "translation": "to help",
+    "imperfectum": "hielp,hielpen",
+    "hulpwerkwoord": "heeft",
+    "perfectum": "geholpen"
+  },
+  {
+    "infinitief": "heten",
+    "translation": "to call",
+    "imperfectum": "heette,heetten",
+    "hulpwerkwoord": "heeft",
+    "perfectum": "geheten"
+  },
+  {
+    "infinitief": "houden",
+    "translation": "to hold",
+    "imperfectum": "hield,hielden",
+    "hulpwerkwoord": "heeft",
+    "perfectum": "gehouden"
+  },
+  {
+    "infinitief": "kiezen",
+    "translation": "to choose",
+    "imperfectum": "koos,kozen",
+    "hulpwerkwoord": "heeft",
+    "perfectum": "gekozen"
+  },
+  {
+    "infinitief": "kijken",
+    "translation": "to watch",
+    "imperfectum": "keek,keken",
+    "hulpwerkwoord": "heeft",
+    "perfectum": "gekeken"
+  },
+  {
+    "infinitief": "klimmen",
+    "translation": "to climb",
+    "imperfectum": "klom,klommen",
+    "hulpwerkwoord": "heeft,is",
+    "perfectum": "geklommen"
+  },
+  {
+    "infinitief": "komen",
+    "translation": "to come",
+    "imperfectum": "kwam,kwamen",
+    "hulpwerkwoord": "is",
+    "perfectum": "gekomen"
+  },
+  {
+    "infinitief": "kopen",
+    "translation": "to buy",
+    "imperfectum": "kocht,kochten",
+    "hulpwerkwoord": "heeft",
+    "perfectum": "gekocht"
+  },
+  {
+    "infinitief": "krijgen",
+    "translation": "to get",
+    "imperfectum": "kreeg,kregen",
+    "hulpwerkwoord": "heeft",
+    "perfectum": "gekregen"
+  },
+  {
+    "infinitief": "kunnen",
+    "translation": "to be able",
+    "imperfectum": "kon,konden",
+    "hulpwerkwoord": "heeft",
+    "perfectum": "gekund"
+  },
+  {
+    "infinitief": "lachen",
+    "translation": "to laugh",
+    "imperfectum": "lachte,lachten",
+    "hulpwerkwoord": "heeft",
+    "perfectum": "gelachen"
+  },
+  {
+    "infinitief": "laten",
+    "translation": "to let",
+    "imperfectum": "liet,lieten",
+    "hulpwerkwoord": "heeft",
+    "perfectum": "gelaten"
+  },
+  {
+    "infinitief": "lezen",
+    "translation": "to read",
+    "imperfectum": "las,lazen",
+    "hulpwerkwoord": "heeft",
+    "perfectum": "gelezen"
+  },
+  {
+    "infinitief": "liegen",
+    "translation": "to lie",
+    "imperfectum": "loog,logen",
+    "hulpwerkwoord": "heeft",
+    "perfectum": "gelogen"
+  },
+  {
+    "infinitief": "liggen",
+    "translation": "to lie",
+    "imperfectum": "lag,lagen",
+    "hulpwerkwoord": "heeft",
+    "perfectum": "gelegen"
+  },
+  {
+    "infinitief": "lopen",
+    "translation": "to run",
+    "imperfectum": "liep,liepen",
+    "hulpwerkwoord": "heeft,is",
+    "perfectum": "gelopen"
+  },
+  {
+    "infinitief": "moeten",
+    "translation": "to must",
+    "imperfectum": "moest,moesten",
+    "hulpwerkwoord": "",
+    "perfectum": ""
+  },
+  {
+    "infinitief": "mogen",
+    "translation": "to be allowed to",
+    "imperfectum": "mocht,mochten",
+    "hulpwerkwoord": "",
+    "perfectum": ""
+  },
+  {
+    "infinitief": "nemen",
+    "translation": "to take",
+    "imperfectum": "nam,namen",
+    "hulpwerkwoord": "heeft",
+    "perfectum": "genomen"
+  },
+  {
+    "infinitief": "ontvangen",
+    "translation": "to receive",
+    "imperfectum": "ontving,ontvingen",
+    "hulpwerkwoord": "heeft",
+    "perfectum": "ontvangen"
+  },
+  {
+    "infinitief": "rijden",
+    "translation": "to ride",
+    "imperfectum": "reed,reden",
+    "hulpwerkwoord": "heeft,is",
+    "perfectum": "gereden"
+  },
+  {
+    "infinitief": "roepen",
+    "translation": "to call",
+    "imperfectum": "riep,riepen",
+    "hulpwerkwoord": "heeft",
+    "perfectum": "geroepen"
+  },
+  {
+    "infinitief": "schieten",
+    "translation": "to shoot",
+    "imperfectum": "schoot,schoten",
+    "hulpwerkwoord": "heeft",
+    "perfectum": "geschoten"
+  },
+  {
+    "infinitief": "schijnen",
+    "translation": "to shine",
+    "imperfectum": "scheen,schenen",
+    "hulpwerkwoord": "heeft",
+    "perfectum": "geschenen"
+  },
+  {
+    "infinitief": "schrikken",
+    "translation": "to scare",
+    "imperfectum": "schrok,schrokken",
+    "hulpwerkwoord": "is",
+    "perfectum": "geschrokken"
+  },
+  {
+    "infinitief": "schrijven",
+    "translation": "to write",
+    "imperfectum": "schreef,schreven",
+    "hulpwerkwoord": "heeft",
+    "perfectum": "geschreven"
+  },
+  {
+    "infinitief": "slapen",
+    "translation": "to sleep",
+    "imperfectum": "sliep,sliepen",
+    "hulpwerkwoord": "heeft",
+    "perfectum": "geslapen"
+  },
+  {
+    "infinitief": "sluiten",
+    "translation": "to close",
+    "imperfectum": "sloot,sloten",
+    "hulpwerkwoord": "heeft",
+    "perfectum": "gesloten"
+  },
+  {
+    "infinitief": "snijden",
+    "translation": "to cut",
+    "imperfectum": "sneed,sneden",
+    "hulpwerkwoord": "heeft",
+    "perfectum": "gesneden"
+  },
+  {
+    "infinitief": "spreken",
+    "translation": "to speak",
+    "imperfectum": "sprak,spraken",
+    "hulpwerkwoord": "heeft",
+    "perfectum": "gesproken"
+  },
+  {
+    "infinitief": "springen",
+    "translation": "to jump",
+    "imperfectum": "sprong,sprongen",
+    "hulpwerkwoord": "heeft,is",
+    "perfectum": "gesprongen"
+  },
+  {
+    "infinitief": "staan",
+    "translation": "to stand",
+    "imperfectum": "stond,stonden",
+    "hulpwerkwoord": "heeft",
+    "perfectum": "gestaan"
+  },
+  {
+    "infinitief": "steken",
+    "translation": "to sting",
+    "imperfectum": "stak,staken",
+    "hulpwerkwoord": "heeft",
+    "perfectum": "gestoken"
+  },
+  {
+    "infinitief": "stelen",
+    "translation": "to steal",
+    "imperfectum": "stal,stalen",
+    "hulpwerkwoord": "heeft",
+    "perfectum": "gestolen"
+  },
+  {
+    "infinitief": "sterven",
+    "translation": "to die",
+    "imperfectum": "stierf,stierven",
+    "hulpwerkwoord": "is",
+    "perfectum": "gestorven"
+  },
+  {
+    "infinitief": "trekken",
+    "translation": "to pull",
+    "imperfectum": "trok,trokken",
+    "hulpwerkwoord": "heeft,is",
+    "perfectum": "getrokken"
+  },
+  {
+    "infinitief": "vallen",
+    "translation": "to fall",
+    "imperfectum": "viel,vielen",
+    "hulpwerkwoord": "is",
+    "perfectum": "gevallen"
+  },
+  {
+    "infinitief": "vangen",
+    "translation": "to catch",
+    "imperfectum": "ving,vingen",
+    "hulpwerkwoord": "heeft",
+    "perfectum": "gevangen"
+  },
+  {
+    "infinitief": "varen",
+    "translation": "to sail",
+    "imperfectum": "voer,voeren",
+    "hulpwerkwoord": "heeft,is",
+    "perfectum": "gevaren"
+  },
+  {
+    "infinitief": "vechten",
+    "translation": "to fight",
+    "imperfectum": "vocht,vochten",
+    "hulpwerkwoord": "heeft",
+    "perfectum": "gevochten"
+  },
+  {
+    "infinitief": "verbieden",
+    "translation": "to forbid",
+    "imperfectum": "verbood,verboden",
+    "hulpwerkwoord": "heeft",
+    "perfectum": "verboden"
+  },
+  {
+    "infinitief": "verdwijnen",
+    "translation": "to disappear",
+    "imperfectum": "verdween,verdwenen",
+    "hulpwerkwoord": "is",
+    "perfectum": "verdwenen"
+  },
+  {
+    "infinitief": "vergeten",
+    "translation": "to forget",
+    "imperfectum": "vergat,vergaten",
+    "hulpwerkwoord": "heeft,is",
+    "perfectum": "vergeten"
+  },
+  {
+    "infinitief": "verlaten",
+    "translation": "to leave",
+    "imperfectum": "verliet,verlieten",
+    "hulpwerkwoord": "heeft",
+    "perfectum": "verlaten"
+  },
+  {
+    "infinitief": "verliezen",
+    "translation": "to lose",
+    "imperfectum": "verloor,verloren",
+    "hulpwerkwoord": "heeft",
+    "perfectum": "verloren"
+  },
+  {
+    "infinitief": "vertrekken",
+    "translation": "to leave",
+    "imperfectum": "vertrok,vertrokken",
+    "hulpwerkwoord": "is",
+    "perfectum": "vertrokken"
+  },
+  {
+    "infinitief": "vinden",
+    "translation": "to find",
+    "imperfectum": "vond,vonden",
+    "hulpwerkwoord": "heeft",
+    "perfectum": "gevonden"
+  },
+  {
+    "infinitief": "vliegen",
+    "translation": "to fly",
+    "imperfectum": "vloog,vlogen",
+    "hulpwerkwoord": "heeft,is",
+    "perfectum": "gevlogen"
+  },
+  {
+    "infinitief": "vragen",
+    "translation": "to ask",
+    "imperfectum": "vroeg,vroegen",
+    "hulpwerkwoord": "heeft",
+    "perfectum": "gevraagd"
+  },
+  {
+    "infinitief": "wassen",
+    "translation": "to wash",
+    "imperfectum": "waste,wasten",
+    "hulpwerkwoord": "heeft",
+    "perfectum": "gewassen"
+  },
+  {
+    "infinitief": "werpen",
+    "translation": "to throw",
+    "imperfectum": "wierp,wierpen",
+    "hulpwerkwoord": "heeft",
+    "perfectum": "geworpen"
+  },
+  {
+    "infinitief": "weten",
+    "translation": "to know",
+    "imperfectum": "wist,wisten",
+    "hulpwerkwoord": "heeft",
+    "perfectum": "geweten"
+  },
+  {
+    "infinitief": "wijzen",
+    "translation": "to indicate",
+    "imperfectum": "wees,wezen",
+    "hulpwerkwoord": "heeft",
+    "perfectum": "gewezen"
+  },
+  {
+    "infinitief": "willen",
+    "translation": "want",
+    "imperfectum": "wilde,wilden",
+    "hulpwerkwoord": "",
+    "perfectum": ""
+  },
+  {
+    "infinitief": "winnen",
+    "translation": "to win",
+    "imperfectum": "won,wonnen",
+    "hulpwerkwoord": "heeft",
+    "perfectum": "gewonnen"
+  },
+  {
+    "infinitief": "worden",
+    "translation": "to become",
+    "imperfectum": "werd,werden",
+    "hulpwerkwoord": "is",
+    "perfectum": "geworden"
+  },
+  {
+    "infinitief": "zeggen",
+    "translation": "to say",
+    "imperfectum": "zei,zeiden",
+    "hulpwerkwoord": "heeft",
+    "perfectum": "gezegd"
+  },
+  {
+    "infinitief": "zenden",
+    "translation": "to send",
+    "imperfectum": "zond,zonden",
+    "hulpwerkwoord": "heeft",
+    "perfectum": "gezonden"
+  },
+  {
+    "infinitief": "zien",
+    "translation": "to see",
+    "imperfectum": "zag,zagen",
+    "hulpwerkwoord": "heeft",
+    "perfectum": "gezien"
+  },
+  {
+    "infinitief": "zijn",
+    "translation": "to be",
+    "imperfectum": "was,waren",
+    "hulpwerkwoord": "is",
+    "perfectum": "geweest"
+  },
+  {
+    "infinitief": "zingen",
+    "translation": "to sing",
+    "imperfectum": "zong,zongen",
+    "hulpwerkwoord": "heeft",
+    "perfectum": "gezongen"
+  },
+  {
+    "infinitief": "zitten",
+    "translation": "to sit",
+    "imperfectum": "zat,zaten",
+    "hulpwerkwoord": "heeft",
+    "perfectum": "gezeten"
+  },
+  {
+    "infinitief": "zoeken",
+    "translation": "to search",
+    "imperfectum": "zocht,zochten",
+    "hulpwerkwoord": "heeft",
+    "perfectum": "gezocht"
+  },
+  {
+    "infinitief": "zullen",
+    "translation": "shall",
+    "imperfectum": "zou,zouden",
+    "hulpwerkwoord": "",
+    "perfectum": ""
+  },
+  {
+    "infinitief": "zwemmen",
+    "translation": "to swim",
+    "imperfectum": "zwom,zwommen",
+    "hulpwerkwoord": "heeft,is",
+    "perfectum": "gezwommen"
+  },
+  {
+    "infinitief": "zwijgen",
+    "translation": "to silent",
+    "imperfectum": "zweeg,zwegen",
+    "hulpwerkwoord": "heeft",
+    "perfectum": "gezwegen"
+  }
+]
