@@ -1,5 +1,9 @@
 [
     {
+        "topic": "verschidene_woorden",
+        "description": "Verschidene woorden",
+        "count": 5
+    },{
         "topic": "evenementenhal",
         "description": "Naar de evenementenhal",
         "count": 14
