@@ -53,6 +53,11 @@ resource "aws_cloudfront_distribution" "s3_distribution" {
 
   aliases = var.aliases
 
+  custom_error_response {
+    error_code         = 404
+    response_page_path = "/error.html"
+  }
+
   restrictions {
     geo_restriction {
       restriction_type = "none"
