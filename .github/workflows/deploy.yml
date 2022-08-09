@@ -1,4 +1,4 @@
-name: Upload woorden
+name: Deploy woorden
 
 on:
   push:
@@ -8,9 +8,35 @@ on:
 jobs:
   deploy:
     runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: "terraform/env/prd"
     steps:
     - uses: actions/checkout@master
-    - uses: jakejarvis/s3-sync-action@master
+    - uses: hashicorp/setup-terraform@v2
+      with:
+        terraform_version: 1.2.6
+
+    - name: Terraform Init
+      id: init
+      run: terraform init
+      env:
+        AWS_ACCESS_KEY_ID:  ${{ secrets.AWS_ACCESS_KEY_ID }}
+        AWS_SECRET_ACCESS_KEY:  ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+
+    - name: Terraform Validate
+      id: validate
+      run: terraform validate -no-color
+
+    - name: Terraform Apply
+      id: apply
+      run: terraform apply -auto-approve
+      env:
+        AWS_ACCESS_KEY_ID:  ${{ secrets.AWS_ACCESS_KEY_ID }}
+        AWS_SECRET_ACCESS_KEY:  ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+
+    - name: Deploy web site to S3 hosting
+      uses: jakejarvis/s3-sync-action@master
       with:
         args: --acl public-read --follow-symlinks --delete
       env:
