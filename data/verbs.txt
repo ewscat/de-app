@@ -88,3 +88,8 @@ zoeken	zocht	zochten	gezocht	hebben	to search
 zullen	zou	zouden	-------	-------	to shall
 zwemmen	zwom	zwommen	gezwommen	hebben,zijn	to swim
 zwijgen	zweeg	zwegen	gezwegen	hebben	to silent
+bevatten bevatte bevatten bevat hebben to contain
+verdwijnen verdween verdweenen verdwenen is to disappear
+vergelijken vergeleek vergeleken vergeleken hebben to compare
+gelden gold golden gegolden hebben to hold
+bepalen bepaalde bepaalde bepaald heeft; de exacte afstand bepalen - determine the exact distance. Dat is bepaald door de wet - That is determined by the law.
