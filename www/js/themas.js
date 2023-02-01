@@ -25,6 +25,8 @@ function getTopics(wordsUrl) {
 }
 
 function buildList(topics) {
+    translate = document.getElementById("flexSwitchCheck").checked;
+
     all = document.createElement("div");
 
     header = document.createElement("h1");
@@ -42,8 +44,9 @@ function buildList(topics) {
         li.classList.add("justify-content-between");
         li.classList.add("align-items-center");
         a = document.createElement("a");
-        a.setAttribute("href", `/woorden.html?topic=${i.topic}`);
+        a.setAttribute("href", `/woorden.html?topic=${i.topic}&translate=${translate}`);
         a.classList.add("link-dark");
+        a.classList.add("topic-link");
         a.textContent = i.description;
         span = document.createElement("span");
         span.classList.add("badge");
@@ -56,4 +59,18 @@ function buildList(topics) {
 
     all.appendChild(lst);
     return all;
+}
+
+function changeTranslationOption() {
+    translate = document.getElementById("flexSwitchCheck");
+    urls = document.getElementsByClassName("topic-link");
+    for (let i = 0; i < urls.length; i++) {
+        link = urls[i].getAttribute("href");
+        if (translate.checked) {
+            newLink = link.replace("translate=false", "translate=true");
+        } else {
+            newLink = link.replace("translate=true", "translate=false");
+        }
+        urls[i].setAttribute("href", newLink);
+    }
 }
