@@ -1,4 +1,4 @@
-name: Deploy woorden
+name: Deploy woorden 📦
 
 on:
   push:
