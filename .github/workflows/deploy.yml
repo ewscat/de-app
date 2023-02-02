@@ -9,6 +9,7 @@ jobs:
   deploy:
     name: Deploy to web hosting 🚀
     runs-on: ubuntu-latest
+    environment: production
     steps:
     - uses: actions/checkout@master
     - uses: hashicorp/setup-terraform@v2
