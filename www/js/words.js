@@ -15,10 +15,14 @@ function getJSON(url) {
 }
 
 function getWordsLocation() {
+    const topic = getParameter('topic');
+    return `/words/${topic}.json`;
+}
+
+function getParameter(name) {
     const queryString = window.location.search;
     const urlParams = new URLSearchParams(queryString);
-    const topic = urlParams.get('topic');
-    return `/words/${topic}.json`;
+    return urlParams.get(name);
 }
 
 function getWords() {
@@ -35,6 +39,7 @@ function getRandomElement(items) {
 
 function nextWord() {
     hideWord();
+    hideTranslation();
     currentElement = getNotShowed(wordList);
     if (currentElement) {
         var word = document.getElementById("word");
@@ -97,6 +102,27 @@ function showArticle(art) {
     
     var btn = document.getElementById(art);
     markButton(btn, btn_class)
+    
+    if (translationEnabled()) {
+        showTranslation();
+    }
+}
+
+function showTranslation() {
+    var translation = document.getElementById("translation");
+    translation.textContent = currentElement.translations.join(", ");
+    article.setAttribute("class", "visible");
+}
+
+function hideTranslation() {
+    var translation = document.getElementById("translation");
+    translation.textContent = "";
+    article.setAttribute("class", "invisible");
+}
+
+function translationEnabled() {
+    const enabled = getParameter("translate")
+    return enabled == "true";
 }
 
 function updateCounter() {
