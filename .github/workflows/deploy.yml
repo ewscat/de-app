@@ -40,7 +40,7 @@ jobs:
     - name: Specify Cloudfront distribution id
       id: output
       working-directory: "terraform/env/prd"
-      run: echo distribution_id=$(terraform output -raw cf_distribution_id && echo) >> $GITHUB_ENV
+      run: echo "distribution_id=$(terraform output -raw cf_distribution_id && echo)" >> $GITHUB_ENV
       env:
         AWS_ACCESS_KEY_ID:  ${{ secrets.AWS_ACCESS_KEY_ID }}
         AWS_SECRET_ACCESS_KEY:  ${{ secrets.AWS_SECRET_ACCESS_KEY }}
