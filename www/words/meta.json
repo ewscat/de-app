@@ -1,31 +1,12 @@
 [
-    {
-        "topic": "verschidene_woorden",
-        "description": "Verschidene woorden",
-        "count": 5
-    },{
-        "topic": "evenementenhal",
-        "description": "Naar de evenementenhal",
-        "count": 14
-    },{
-        "topic": "vrienden",
-        "description": "Bij vrienden",
-        "count": 17
-    },{
-        "topic": "in_de_trein",
-        "description": "In de trein",
-        "count": 16
-    },{
-        "topic": "waar_komt_je_vaandan",
-        "description": "Waar komt je vaandan",
-        "count": 65
-    },{
-        "topic": "zullen_we_iets_afspreken",
-        "description": "Zullen we iets afspreken",
-        "count": 61
-    },{
-        "topic": "doe_je_de_boodschappen",
-        "description": "Doe je de boodschappen?",
-        "count": 77
-    }
+  {
+    "topic": "topic",
+    "description": "description",
+    "count": 1
+  },
+  {
+    "topic": "topic",
+    "description": "topic",
+    "count": 2
+  }
 ]
