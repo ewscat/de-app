@@ -52,6 +52,7 @@ jobs:
       run: |
         ./tools/words.py --meta --no-print
         ./tools/words.py --no-print
+        ./tools/verbs.py ./data/werkwoorden.txt > ./www/werkwoorden/werkwoorden.json
 
     - name: Deploy web site to S3 hosting
       uses: jakejarvis/s3-sync-action@master

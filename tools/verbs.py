@@ -2,24 +2,26 @@
 
 import sys
 import json
-from typing import List
 
-def read_file(filename: str)->List:
+def read_file(filename: str)->list:
     items = []
     with open(filename, mode='r', encoding = 'utf-8') as file:
         lines = [line.rstrip() for line in file.readlines()]
         for line in lines:
-            (inf, imperf_sing, imperf_pl, perf, hielp, to, transl) = line.split()
+            (inf, imperf, hielp_perf, transl, usage_all) = line.split(';')
+            (hielp, perf) = hielp_perf.split()
+            usage = usage_all.split('.')
             items.append({
-                "infinitief": inf,
-                "translation": f'{to} {transl}',
-                "imperfectum": f'{imperf_sing},{imperf_pl}',
-                "hulpwerkwoord": hielp.replace('hebben', 'heeft').replace('zijn', 'is'),
-                "perfectum": perf
+                "infinitief": inf.strip(),
+                "translation": transl.strip(),
+                "imperfectum": imperf.strip(),
+                "hulpwerkwoord": hielp.strip(),
+                "perfectum": perf.strip(),
+                "usage": [usg.strip() for usg in usage]
             })
     return items
 
-def print_items(items: List):
+def print_items(items: list):
     print(json.dumps(items, indent=2))
 
 def main():

@@ -50,17 +50,35 @@ function showPrateritum() {
 function showPerfect() {
   var perfect = document.getElementById("perfectum");
   perfect.textContent = `${currentElement.hulpwerkwoord} ${currentElement.perfectum}`;
-  perfect.setAttribute("class", "visible"); 
+  perfect.setAttribute("class", "visible");
+}
+
+function showUsage() {
+  var usage = document.getElementById("usage");
+  while (usage.firstChild) {
+    usage.removeChild(usage.firstChild);
+  }
+  let usageList = currentElement.usage;
+  for (i in usageList) {
+    p = document.createElement("p");
+    p.setAttribute("class", "text-light");
+    p.setAttribute("class", "fw-lighter");
+    p.setAttribute("class", "fst-italic");
+    p.textContent = usageList[i];
+    usage.appendChild(p);
+  }
+  usage.setAttribute("class", "visible");
 }
 
 function showAll() {
   showVerb();
   showPrateritum();
   showPerfect();
+  showUsage();
 }
 
 function hideAll() {
-  var itemsIds = ["infinitief", "imperfectum", "perfectum"];
+  var itemsIds = ["infinitief", "imperfectum", "perfectum", "usage"];
   for (i in itemsIds) {
     var item = document.getElementById(itemsIds[i]);
     item.setAttribute("class", "invisible");
