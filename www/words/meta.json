@@ -1,12 +1,47 @@
 [
   {
-    "topic": "topic",
-    "description": "description",
-    "count": 1
+    "topic": "evenementenhal",
+    "description": "Evenementenhal",
+    "count": 14
   },
   {
-    "topic": "topic",
-    "description": "topic",
-    "count": 2
+    "topic": "uit_nos",
+    "description": "Uit nos",
+    "count": 5
+  },
+  {
+    "topic": "in_de_trein",
+    "description": "In de trein",
+    "count": 16
+  },
+  {
+    "topic": "nt2_text_1",
+    "description": "Nt2 text 1",
+    "count": 15
+  },
+  {
+    "topic": "waar_komt_je_vaandan",
+    "description": "Waar komt je vaandan",
+    "count": 65
+  },
+  {
+    "topic": "doe_je_de_boodschappen",
+    "description": "Doe je de boodschappen",
+    "count": 77
+  },
+  {
+    "topic": "verschidene_woorden",
+    "description": "Verschidene woorden",
+    "count": 5
+  },
+  {
+    "topic": "vrienden",
+    "description": "Vrienden",
+    "count": 17
+  },
+  {
+    "topic": "zullen_we_iets_afspreken",
+    "description": "Zullen we iets afspreken",
+    "count": 61
   }
 ]
