@@ -13,3 +13,5 @@ de afdeling; departement, branch
 de leerling; student, pupil
 de verspreding; distribution
 de uitvoering; implementation, execution
+het bureaublad; desktop
+het hezin; family, household
