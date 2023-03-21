@@ -116,7 +116,7 @@ function showTranslation() {
 
 function hideTranslation() {
     var translation = document.getElementById("translation");
-    translation.textContent = "";
+    translation.innerHTML = '&nbsp;';
     article.setAttribute("class", "invisible");
 }
 
