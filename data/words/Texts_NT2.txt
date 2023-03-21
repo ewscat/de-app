@@ -15,3 +15,4 @@ de verspreding; distribution
 de uitvoering; implementation, execution
 het bureaublad; desktop
 het hezin; family, household
+de schaal; scale
