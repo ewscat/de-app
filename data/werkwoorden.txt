@@ -7,7 +7,7 @@ bedoelen; bedoelde; heeft bedoeld; mean, intend; Wat bedoelt de dichter hiermee?
 voorbereiden; bereidde voor; heeft voorbereid; prepare; Ik moet mijn speech nog voorbereiden - I still have to prepare my speech. Heb je je goed voorbereid? - Did you train well?
 bewijzen; bewees; heeft bewezen; prove, show; Kun je bewijzen dat je al zestien bent? - Can you prove that you are sixteen?
 ontkennen; ontkende; heeft ontkend; deny, reject; Hij bleef glashard ontkennen dat hij erbij was geweest, terwijl twee mensen hem hadden gezien - He denied to the last that he was there, even though two people saw him
-inzetten zich; zette zich in; heeft zich_ingezet ;make an effort, do one's best; Ik heb me erg ingezet om de vluchtelingen te helpen - I have done my best to help the refugees
+inzetten zich; zette zich in; heeft zich_ingezet ;make an effort, commit; Ik heb me erg ingezet om de vluchtelingen te helpen - I have done my best to help the refugees
 bestaan; bestond; heeft bestaan; exist; Kabouters bestaan niet - Goblins do not exist
 stigen; steeg; is gestegen; go up, increase; De prijzen zijn alweer gestegen - The prices have risen again
 meevallen; viel mee; is meegevallen; be better than expected; Het valt gelukkig mee met de schade - There is less damage than expected. Het valt me mee dat je gekomen bent - It's even better for me that you are here
@@ -20,5 +20,7 @@ vertrouwen; vertrouwde; heeft vertrouwd; trust, have confidence in; Wie kan je n
 schudden; schudde; heeft geschud; shake; iemand wakker schudden - shake someone awake. Goed schudden voor gebruik! - Shake before use
 zitten; zat; heeft gezeten; fit, be, sit; Zitten je schoenen lekker? - Do these shoes fit?
 vragen; vroeg; heeft gevraagd; ask, request; Hij vroeg of ik hier vaker kwam - He asked if I come here more often
-zagen; zaagde; heeft gezaagd; see; Kijk, we zagen wat we zagen - Look, we saw what we saw
+zien; zag; heeft gezien; see; een programma gezien hebben op tv - have seen a TV program
 gaan; ging; is gegaan; go; naar huis gaan - go home
+herkennen; herkende; heeft herkend; know, recognize, acknowledge; Ik herkende de plaats waar het ongeluk gebeurd is - I recognized the place where the accident happened.
+betekenen; betekende; heeft betekend; mean, signify, stand for; Wat betekent dat woord in het Chinees? - What does this word mean in Chinese. Kanker betekent niet altijd het einde - Cancer does not always lead to death.

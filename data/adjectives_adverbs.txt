@@ -7,3 +7,5 @@ arme; poor (man)
 verborgen; secret, hidden
 vlug; fast
 heleboel; a lot of
+ergens; somewhere, elsewhere
+dicht; closed

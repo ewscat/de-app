@@ -92,4 +92,3 @@ bevatten bevatte bevatten bevat hebben to contain
 verdwijnen verdween verdweenen verdwenen is to disappear
 vergelijken vergeleek vergeleken vergeleken hebben to compare
 gelden gold golden gegolden hebben to hold
-
